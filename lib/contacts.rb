@@ -14,3 +14,6 @@ require 'pry'
   #   }
   # }
   
+def remoeve_strawberry(contacts)
+  
+end
