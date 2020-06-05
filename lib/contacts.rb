@@ -15,5 +15,5 @@ require 'pry'
   # }
   
 def remoeve_strawberry(contacts)
-  
+  deck_of_cards[:clubs].delete(:two)
 end
