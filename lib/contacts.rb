@@ -14,8 +14,3 @@ require 'pry'
   #   }
   # }
   
-def remove_strawberry(contacts)
-contacts.each do |attribute, value|
-    puts "#{attribute}: #{value}"
-  end
-end
